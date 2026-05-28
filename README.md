@@ -1,5 +1,5 @@
 <!--Banner-->
-![SumitSartale Banner Image](./banner.png)
+![Amar Meherkar Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
